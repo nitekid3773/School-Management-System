@@ -1,0 +1,32 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@sgs.edu.my
+      name: System Administrator
+      password: admin123
+      role: admin
+    principal:
+      email: principal@sgs.edu.my
+      name: Dr. Elizabeth Warren
+      password: principal123
+      role: principal
+    james.chen:
+      email: j.chen@sgs.edu.my
+      name: Mr. James Chen
+      password: teacher123
+      role: teacher
+    sarah.lim:
+      email: s.lim@sgs.edu.my
+      name: Ms. Sarah Lim
+      password: teacher123
+      role: teacher
+    linda.tan:
+      email: l.tan@sgs.edu.my
+      name: Ms. Linda Tan
+      password: staff123
+      role: staff
+
+cookie:
+  expiry_days: 30
+  key: st_georges_secure_key_2024_very_long_random_string
+  name: st_georges_auth
